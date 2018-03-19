@@ -1,0 +1,15 @@
+.list {
+    margin-top: 10px;
+}
+.item {
+    padding: 6px 10px 6px 10px;
+    font-size: 24px;
+}
+.item-text {
+    padding-left: 10px;
+}
+.item-cb {
+    transform: scale(1.5);
+    position: relative;
+    top: -3px;
+}
